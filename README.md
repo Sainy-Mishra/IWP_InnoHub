@@ -1,1 +1,4 @@
-# IWP_InnoHub
+# INNOHUB
+*InnoHub* is a platform for users to submit, share, and collaborate on innovative project ideas.
+
+<p>“InnoHub” combines "Innovation" and "Hub," suggesting a central place or platform where innovative ideas and solutions are generated, shared, and developed. It implies a collaborative environment focused on fostering creativity and new ideas. It is a collaborative web platform designed to streamline the process of submitting, sharing, and managing innovative project ideas. The platform allows users, including students and professors, to contribute their ideas, provide detailed descriptions, and upload related media. It features a user-friendly interface with dedicated sections for idea submission, role-based access, and an interactive dashboard for managing and exploring ideas. This tool facilitates creativity and collaboration by connecting contributors and providing a structured environment for idea development.</p>
